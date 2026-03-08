@@ -1,0 +1,14 @@
+torch>=2.0
+timm
+transformers @ git+https://github.com/huggingface/transformers.git
+accelerate
+huggingface_hub
+albumentations
+opencv-python-headless
+scikit-learn
+lightgbm
+catboost
+pandas
+numpy
+tqdm
+Pillow
